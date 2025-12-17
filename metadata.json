@@ -1,0 +1,7 @@
+{
+  "name": "ID Photo Maker AI",
+  "description": "Tự động tạo ảnh thẻ chuyên nghiệp với Gemini AI. Thay đổi phông nền, giữ nguyên khuôn mặt và sắp xếp in ấn trên khổ A4.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
